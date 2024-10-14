@@ -1,0 +1,12 @@
+スクリプトを開始します[p]
+
+[image storage="bg001" layer=base]
+背景を表示[l][r]
+[image layer=0 storage="ch001" visible=true left=700 top=20]
+キャラを表示[l][r]
+[image layer=0 visible=false]
+キャラを消去[p]
+1秒待ちます[r]
+[wait time=1000]
+@cm
+おしまい[p]
